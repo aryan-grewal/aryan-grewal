@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am Aryanjot. I am currently studying BSc Computer Science at Aston University!
 
+ Rest i dont know , ill update sometime later :0, Cheersss!!
 <!--
 **aryan-grewal/aryan-grewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
